@@ -20,15 +20,15 @@ HTML:
   - sup
   - span
 -сематические теги:
-  --header
-  --nav
-  --main
-  --article
-  --aside
-  --address
-  --footer
-  --wbr
-  --time
+  - header
+  - nav
+  - main
+  - article
+  - aside
+  - address
+  - footer
+  - wbr
+  - time
 -класс class--> .class
 -id --> #id
 
