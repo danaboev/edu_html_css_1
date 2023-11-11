@@ -1,5 +1,6 @@
 # edu_html_css_1
-Основы HTML/CSS 
+Основы HTML/CSS - base
+
  
 На этом репозитории мы  ознакомились с основами HTML/CSS
 HTML:
